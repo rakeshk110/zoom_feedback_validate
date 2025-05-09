@@ -1,4 +1,4 @@
-#Note : create a new src file and put the model and Gradio.p inside
+#Note : create a new src file and put the model and Gradio inside the src then run
 
 import gradio as gr
 from transformers import BertTokenizer, BertForSequenceClassification
