@@ -1,3 +1,5 @@
+#Note : create a new src file and put the model and Gradio.p inside
+
 import gradio as gr
 from transformers import BertTokenizer, BertForSequenceClassification
 import torch
